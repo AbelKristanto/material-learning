@@ -10,7 +10,7 @@ Materi yang tersedia di sini telah dibahas secara detail melalui channel YouTube
 
 Untuk memudahkan proses belajarmu, kami juga menyediakan latihan-latihan yang dapat kamu unduh dan pelajari secara mandiri. Materi ini bisa kamu gunakan untuk berlatih atau sekadar sebagai referensi ketika belajar melalui video tutorial. Berikut adalah beberapa file yang bisa kamu unduh:
 
-- [30 detik mencari data - belajar function lookup baru](https://github.com/AbelKristanto/material-learning/blob/main/excel/Week%201%20-%20Excel.xlsx)
+- [30 detik mencari data - belajar function lookup baru](https://github.com/AbelKristanto/material-learning/blob/main/excel/material/Week%201%20-%20Excel.xlsx)
 - [Soon](#)
 
 ## 📚 Mengapa Belajar Excel Itu Penting?
